@@ -2,6 +2,8 @@
 {
     background-image: url(fon1.jpg);
     background-size: cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
 }
 h1
 {
